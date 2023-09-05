@@ -1,0 +1,19 @@
+.Title{
+    text-align: center;
+}
+
+.maps{
+    border: 10px ridge #335EFF;
+    background-color: #ff0;
+    padding: 0.5rem;
+    display: flex;
+    
+}
+
+.maps img{
+    width: 40%;
+}
+
+.maps h2{
+    text-align: right;
+}
