@@ -1,0 +1,15 @@
+</p>quiza...<p>
+    <html lang=""></html> ----> tiene que ir todo dentro de esta etiqueta 
+    
+</P>En realidad es bastante sencillo, solo tengo que recordar
+    
+    y poner mucha atención al detalle </P> ---> Esta en mayucula la etiqueta
+    
+    <head> --->esta etiqueta no se cierra  
+    
+        <title>Document</title>
+    </body>
+    
+    <h1>Estamos trabajando en las fallas tecnicas presentes</h1> <title>Document</title> ----> la etiqueta "title" va dentro de head  
+    
+    <h2>Quizá la secuencia sea algo intuitiva<h4> 
