@@ -6,14 +6,53 @@
     border: 10px ridge #335EFF;
     background-color: #ff0;
     padding: 0.5rem;
-    display: flex;
-    
+    display: flex;  
 }
 
 .maps img{
-    width: 40%;
+    width: 70%;
 }
 
-.maps h2{
-    text-align: right;
+.face{
+    border: 10px ridge #132f93;
+    background-color: rgb(135, 165, 220);
+    padding: 0.5rem;
+    display: flex;  
+}
+
+.face img{
+    width: 12%;
+}
+
+.spo{
+    border: 10px ridge #139339;
+    background-color: rgb(151, 225, 159);
+    padding: 0.5rem;
+    display: flex;  
+}
+
+.spo img{
+    width: 12%;
+}
+
+.yutu{
+    border: 10px ridge #b61d17;
+    background-color: rgb(231, 189, 180);
+    padding: 0.5rem;
+    display: flex;  
+}
+
+.yutu img{
+    width: 12%;
+}
+
+.linked{
+    border: 10px ridge #2e4ad4;
+    background-color: rgb(235, 226, 224);
+    padding: 0.5rem;
+    display: flex;  
+}
+
+.linked img{
+    width: 12%;
 }
